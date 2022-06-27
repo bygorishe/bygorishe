@@ -2,7 +2,7 @@
 #### I am beginning programmer and student.
 ~~Something about me~~
 
-Skills: C++ / C# / PostgeSQL
+Skills: C++ / C# / ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 - 🔭 I’m currently working on Chess Project 
 - 🌱 I’m currently learning ASP.NET 
