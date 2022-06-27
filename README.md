@@ -16,3 +16,5 @@ Skills: C++ / C# / PostgeSQL
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bygorishe&theme=solarized_dark)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bygorishe&theme=solarized_dark)
+
+~~[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=KnlnKS&theme=dark)](https://github.com/KnlnKS/leetcode-stats)~~
