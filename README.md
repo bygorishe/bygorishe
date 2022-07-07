@@ -28,4 +28,4 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bygorishe&theme=solarized_dark)
 
-<!---[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=KnlnKS&theme=dark)](https://github.com/KnlnKS/leetcode-stats)--->
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=bygorishe&theme=dark)](https://github.com/bygorishe/leetcode-stats)
