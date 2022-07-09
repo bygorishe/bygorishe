@@ -19,10 +19,10 @@
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/bygorishe)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg' alt='vk' height='40'>](https://vk.com/bygorishe) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/google.svg' alt='google' height='40'>](https://mail.google.com/mail/u/0/.patch) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/yandex.svg' alt='yandex' height='40'>](https://mail.yandex.ru/?uid=81060235.patch)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/google.svg' alt='google' height='40'>]
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/yandex.svg' alt='yandex' height='40'>]
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='google' height='40'>]() 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='yandex' height='40'>]()
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='yandex' height='40'>](https://instagram.com/bygorishe)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bygorishe&theme=solarized_dark)
 
