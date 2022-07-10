@@ -1,7 +1,7 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'll+tell+you+a+little+about+myself.)](https://git.io/typing-svg)
 ## Hi there 👋, my name is Egor.
-### I am beginning programmer and student.
-~~Something about me~~
+### I am beginning programmer and student from russia.
+~~Something about me or mb some ROCK~~
 
 ![](https://github.com/bygorishe/bygorishe_test/blob/master/rock.jpg)
 
@@ -25,10 +25,7 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='google' height='40'>]() 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='yandex' height='40'>]()
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bygorishe&theme=solarized_dark)
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bygorishe&theme=solarized_dark) 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bygorishe&theme=solarized_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bygorishe&theme=solarized_dark)
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bygorishe&theme=solarized_dark) 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=bygorishe&theme=dark)](https://github.com/bygorishe/leetcode-stats)
