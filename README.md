@@ -28,4 +28,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bygorishe&theme=solarized_dark) 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bygorishe&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bygorishe&theme=solarized_dark) 
+
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=bygorishe&theme=dark)](https://github.com/bygorishe/leetcode-stats)
+
+[![codewars](https://www.codewars.com/users/bygorishe/badges/large)](https://www.codewars.com/users/bygorishe) 
