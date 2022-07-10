@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=My+friend,+I'll+tell+you+a+little+about+myself.)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'll+tell+you+a+little+about+myself.)](https://git.io/typing-svg)
 ## Hi there 👋, my name is Egor.
 ### I am beginning programmer and student.
 ~~Something about me~~
