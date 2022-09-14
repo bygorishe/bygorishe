@@ -15,7 +15,8 @@
 
 - 🔭 I’m currently working on Chess Project 
 - 🌱 I’m currently learning ASP.NET 
-- ⚡ Fun fact: Панки ХОЙ 
+- ⚡ Fun fact: Was the leader of the GUI team in a student project that was dedicated to the development of a graphic editor (https://gitlab.com/egorsukhinin/grred)
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/bygorishe)
