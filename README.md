@@ -1,9 +1,10 @@
 <!--## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'll+tell+you+a+little+about+myself.)](https://git.io/typing-svg)-->
 ## Hi there 👋, my name is Egor.
-### I am beginner programmer and student from Russia .
-<!--~~Something about me or mb some ROCK~~-->
-
+### I'm backend developer and student from Russia.
 ![](https://github.com/bygorishe/bygorishe_test/blob/master/rock.jpg)
+
+### Now Ozon .NET backend developer.
+![](https://github.com/bygorishe/bygorishe_test/blob/master/UqaaCP8pDWk.jpg)
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
